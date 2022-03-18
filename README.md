@@ -10,7 +10,7 @@
 **Информацию о самом проекте флага можно почитать на [whitebluewhite.info](http://whitebluewhite.info)**
 
 
-#Установка:
+# Установка:
 1. Скачайте [New-Russian-Layout.bundle.zip](https://github.com/ManeFunction/new-russia-keyboard-flag/releases)
 2. Распакуйте в любое удобное место
 3. Откройте Finder
